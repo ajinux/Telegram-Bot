@@ -20,4 +20,4 @@ SCREEN SHOT
 4. [Dictionary API](http://developer.wordnik.com/docs.html#!/word)
 
 ###Features to be implemented further
-*Natural language processing with python
+* Natural language processing with python

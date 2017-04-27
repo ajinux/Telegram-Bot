@@ -9,8 +9,7 @@ PROJECT DETAILS
 ![SCREENSHOT](http://s33.postimg.org/596mj45dr/tele_bot_img.png)
 
 ##### Video Demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zTJ1JtZPuAA" frameborder="0" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/zTJ1JtZPuAA/maxresdefault.jpg)](https://youtu.be/zTJ1JtZPuAA)
 
 
 ## Inspired by

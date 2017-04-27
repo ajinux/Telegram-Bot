@@ -2,15 +2,16 @@ PROJECT DETAILS
 ===============
 **Project Duration** : 12 days(approx)  
 ##### Explanation  
-       A Personal(self-customized) bot built upon telegram which simplifies my day-to-day activities such as renewing my library books on time, giving my list of facebook friends who have birthday on that day etc..  
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Personal(self-customized) bot built upon telegram which simplifies my day-to-day activities such as renewing my library books on time, giving my list of facebook friends who have birthday on that day etc.. </p>
+
+
+##### Functionalities(Screen Shot)
+![SCREENSHOT](http://s33.postimg.org/596mj45dr/tele_bot_img.png)
 
 ##### Video Demonstration
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zTJ1JtZPuAA" frameborder="0" allowfullscreen></iframe>
 
-<a href="https://www.youtube.com/watch?v=zTJ1JtZPuAA&t=2s" target="_blank"><img src="https://i.ytimg.com/vi/zTJ1JtZPuAA/maxresdefault.jpg" alt="Bots" width="240" height="180" border="10" /></a>
 
-SCREEN SHOT
------------
-![SCREENSHOT](http://s33.postimg.org/596mj45dr/tele_bot_img.png)
 
 ## Inspired by
 * [Hackers script](https://github.com/NARKOZ/hacker-scripts)

@@ -9,8 +9,8 @@ PROJECT DETAILS
 ![SCREENSHOT](http://s33.postimg.org/596mj45dr/tele_bot_img.png)
 
 ##### Video Demonstration
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/zTJ1JtZPuAA/maxresdefault.jpg)](https://youtu.be/zTJ1JtZPuAA)
-
+<a href="https://youtu.be/zTJ1JtZPuAA" target="_blank"><img src="https://i.ytimg.com/vi/zTJ1JtZPuAA/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="470" height="300" border="10" /></a>
 
 ## Inspired by
 * [Hackers script](https://github.com/NARKOZ/hacker-scripts)
